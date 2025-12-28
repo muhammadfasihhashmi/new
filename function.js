@@ -1,10 +1,10 @@
-// function add(name = "ahmad", age = 23) {
-//   console.log(name);
-//   console.log(age);
-//   console.log("shdj");
-// }
-// add();
-// add("fasih", 23);
+function add(name = "ahmad", age = 23) {
+  console.log(name);
+  console.log(age);
+  console.log("shdj");
+}
+add();
+add("fasih", 23);
 
 function sum(a, b, ...rest) {
   console.log(rest);
