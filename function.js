@@ -14,3 +14,18 @@ function sum(a, b, ...rest) {
 let abs = sum(23, 23, 34, "hgdjj", 34);
 
 console.log(abs);
+console.log(abs);
+console.log(abs);
+console.log(abs);
+console.log(abs);
+console.log(abs);
+console.log(abs);
+console.log(abs);
+console.log(abs);
+console.log(abs);
+
+
+
+
+
+
